@@ -45,8 +45,12 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 ### Rl=680
 ![3](https://user-images.githubusercontent.com/93224166/149435794-d939d5e1-8d9f-4ce2-922d-03a8cadb63d1.png)
 
+![C3](https://user-images.githubusercontent.com/93951775/149526331-c94ced73-f99e-4da9-bf73-dbd3f98a596c.JPG)
+
 ### Rl=820
 ![4](https://user-images.githubusercontent.com/93224166/149435797-4af980f0-3b01-47d8-9af1-0b9cf7e84821.png)
+
+![C4](https://user-images.githubusercontent.com/93951775/149526340-d6adeeef-9bfb-4ec6-adf7-1cfb3a6afc99.JPG)
 
 ### Rl=1000
 ![5](https://user-images.githubusercontent.com/93224166/149522770-add1cf5d-50e7-4527-8a0c-d767c90f7e18.png)
@@ -75,6 +79,8 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 
 ### Rl=4700
 ![10](https://user-images.githubusercontent.com/93224166/149522821-bb214654-0adb-416d-9f44-171d55e6764f.png)
+
+![C10](https://user-images.githubusercontent.com/93951775/149526375-6c65de9d-719c-4c12-af8a-d8a906d73a92.JPG)
 
 
 
