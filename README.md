@@ -9,7 +9,21 @@ NRC: 10149
 ### TEMA:  TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 ## 1. Objetivos
 ### Objetivo general
+
+Analizar experimentalmente el Teorema de máxima transferencia de potencia.
+
+
 ### Objetivos especificos
+
+
+Conocer la correcta implementación de los circuitos y sus valores para no causar un error en los cálculos.
+
+Establecer experimentalmente la respuesta de potencia de un circuito, cuando se somete a una carga óhmica variable.
+Determinar los factores que causan la discrepancia entre datos medidos y calculados.
+
+
+
+
 ## 2. Marco teorico
 
 ### Rl=220
