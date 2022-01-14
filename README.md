@@ -32,7 +32,8 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 ### Laboratorio
 
 ### Rl=220
-![1](https://user-images.githubusercontent.com/93224166/149435789-1e4e0e12-94a4-4a94-a73f-10f6b476dbd3.png)
+![1](https://user-images.githubusercontent.com/93224166/149514555-ef349622-0fe8-4756-8efb-c465c7a63d7b.png)
+
 
 ### Rl=470
 ![2](https://user-images.githubusercontent.com/93224166/149435791-89dcf22f-9887-4877-8f06-231c28369443.png)
