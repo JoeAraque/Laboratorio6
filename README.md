@@ -10,21 +10,26 @@ NRC: 10149
 ## 1. Objetivos
 ### Objetivo general
 
-Analizar experimentalmente el Teorema de máxima transferencia de potencia.
+Analizar experimentalmente el Teorema de máxima transferencia de potencia, mediante la utilizacion de laboratorios virtuales para una mayor comprension del tema.
 
 
 ### Objetivos especificos
 
-
-Conocer la correcta implementación de los circuitos y sus valores para no causar un error en los cálculos.
-
-Establecer experimentalmente la respuesta de potencia de un circuito, cuando se somete a una carga óhmica variable.
-Determinar los factores que causan la discrepancia entre datos medidos y calculados.
+* Construir el circuito a analizar
+* Medir la potencia mediante un voltimetro.
+* Determinar los factores que causan la discrepancia entre datos medidos y calculados.
+* Comparar los datos experimentales con los los calculados.
+* Sacar concluiones del tema de potencia Maxima.
 
 
 
 
 ## 2. Marco teorico
+
+### Diagrama del circuito
+![Diagrama](https://user-images.githubusercontent.com/93224166/149448353-54302335-992c-4d17-bc17-afa5e326a937.png)
+
+### Laboratorio
 
 ### Rl=220
 ![1](https://user-images.githubusercontent.com/93224166/149435789-1e4e0e12-94a4-4a94-a73f-10f6b476dbd3.png)
@@ -77,6 +82,9 @@ Determinar los factores que causan la discrepancia entre datos medidos y calcula
 
 ## 4. Video 
 ## 5. Conclusiones
+
+* Podemos ver que la conexion de un vatimetro, es como conectar un amperimetro con un voltimetro.
+* La potencia maxima ocuerre cuando la resistencia interna de la fuente de carga de es igual a la resistencia ha medir.
 
 
 Hay que asegurarse de tomar cálculos de una manera clara y ordenada, para así no equivocarse en el hecho de remplazar y tener como consecuencia un % de error excesivo.
