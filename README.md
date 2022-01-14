@@ -90,11 +90,10 @@ Después de obtener todos los datos podemos observar el fenómeno de una transfe
 
 **¿Cuál fue la potencia máxima en RL? **
 
- 0.050 Watts
+ 0.057 vatios
  
 **¿Para qué valor de RL se obtiene la MTP? ** 
 
-1800 Ω
 
 
 ## 4. Video 
