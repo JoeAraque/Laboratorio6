@@ -10,30 +10,24 @@ NRC: 10149
 ## 1. Objetivos
 ### Objetivo general
 
-* Analizar experimentalmente el Teorema de máxima transferencia de potencia, mediante la utilizacion de la boratorios virtules para una mayor comprension del tema
+Analizar experimentalmente el Teorema de máxima transferencia de potencia.
 
 
 ### Objetivos especificos
 
-* Construir el circuito a analizar
-* 
-* Conocer la correcta implementación de los circuitos y sus valores para no causar un error en los cálculos.
 
-* Establecer experimentalmente la respuesta de potencia de un circuito, cuando se somete a una carga óhmica variable.
-* Determinar los factores que causan la discrepancia entre datos medidos y calculados.
-* Comparar los datos experimentales con los los calculados.
-* Sacar concluiones del tema de potencia Maxima.
+Conocer la correcta implementación de los circuitos y sus valores para no causar un error en los cálculos.
+
+Establecer experimentalmente la respuesta de potencia de un circuito, cuando se somete a una carga óhmica variable.
+Determinar los factores que causan la discrepancia entre datos medidos y calculados.
 
 
 
 
 ## 2. Marco teorico
-![map8 7](https://user-images.githubusercontent.com/93224166/149447752-007efbfd-960a-428b-8ca7-32e15bea1ab7.png)
 
-
-### Laboratorio
 ### Rl=220
-![1](https://user-images.githubusercontent.com/93224166/149447788-94657431-eaf5-49fe-9987-5ef1d5140c64.png)
+![1](https://user-images.githubusercontent.com/93224166/149435789-1e4e0e12-94a4-4a94-a73f-10f6b476dbd3.png)
 
 ### Rl=470
 ![2](https://user-images.githubusercontent.com/93224166/149435791-89dcf22f-9887-4877-8f06-231c28369443.png)
@@ -68,7 +62,7 @@ NRC: 10149
 
 |Rl(Ω)|Corriente Medida (mA)|Voltaje medido (V)| Potencia experimentalmente(W)| Potencia teorica(W)|
 |-------|----|---|---|----|
-|220|10.56|2.32|0.024|0.024
+|220|10.56|2.32|0.026|
 |470|8.98|4.22|0.038|
 |680|8.02|5.37|0.043|
 |820|7.21|6.35|0.044|
@@ -83,5 +77,16 @@ NRC: 10149
 
 ## 4. Video 
 ## 5. Conclusiones
+
+
+Hay que asegurarse de tomar cálculos de una manera clara y ordenada, para así no equivocarse en el hecho de remplazar y tener como consecuencia un % de error excesivo.
+Establecer que el teorema no solo nos muestra que hay un valor pico sino que Rl depende de la resistencia Rs.
+Se debe entender que para calcular el voltaje de una región se le conectar al circuito en forma paralela y para calcular intensidad se debe tratar al multímetro como un elemento del circuito y conectarle en serie.
+Determinamos que con el teorema se busca la potencia consumida por una resistencia en un circuito .
+Analizamos que gráficamente tendremos de cálculo de potencian un circuito equivalente de Thévenin o Norton para poder aplicar el teorema de la máxima transferencia.
+
+
+
+
 ## 6. Bibliografia
 FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007 ISBN: 978-970-26-0967-4 Área: Ingeniería Formato: 21 × 27 cm Páginas: 968
