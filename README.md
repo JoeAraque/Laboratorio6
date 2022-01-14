@@ -89,8 +89,6 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
-![LAB 6 1](https://user-images.githubusercontent.com/93951775/149522326-dddba019-a7fe-4ad8-b947-10deebf645ef.JPG)        ![LAB 6 2](https://user-images.githubusercontent.com/93951775/149522332-05dc2f58-9803-4fb1-86cc-56f0b14e41f0.JPG)
-
 
 |Rl(Ω)|Corriente Medida (mA)|Voltaje medido (V)| Potencia experimentalmente(W)| Potencia teorica(W)|
 |-------|----|---|---|----|
@@ -98,33 +96,28 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 |470|8.98|4.22|0.038|0.037|
 |680|8.02|5.37|0.043|0.042|
 |820|7.21|6.35|0.044|0.045|
-|1000|6.81|6.71|0.047|0.0467|
+|1000|6.81|6.71|0.047|0.0463|
 |1500|5.45|8.51|0.043|0.046|
 |1800|5.01|8.90|0.045|0.045|
 |2200|3.74|10.44|0.042|0.043|
 |3900|3.46|10.78|0.032|0.034|
 |4700|2.38|12.10|0.024|0.03|
 
-**Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su Respuesta**
-Si se cumple porque cuando la Resistencia Rl se acerca al valor de Rs podemos observar que existe mayor potencia.
+**Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+Respuesta**
 
-**¿Cuál fue la potencia máxima en RL?**
+Después de obtener todos los datos podemos observar el fenómeno de una transferencia máxima, en las imágenes anteriores experimentales podemos observar algo interesante que hay un valor pico y este se reduce con esto se puede decir que si se cumple el teorema de la máxima transferencia de potencia. 
+
+**¿Cuál fue la potencia máxima en RL? **
 
  0.047 vatios
  
-**¿Para qué valor de RL se obtiene la MTP?** 
+**¿Para qué valor de RL se obtiene la MTP? ** 
 
 1000 Ω
 
-### Calculo de error
-![error1](https://user-images.githubusercontent.com/93224166/149532325-3f8ac133-c437-4141-8c25-4cfd0af93639.png)
-
-![error2](https://user-images.githubusercontent.com/93224166/149532319-d0c841dc-a40c-4af1-8abc-c6fc07d60c68.png)
-
-
 
 ## 4. Video 
-https://youtu.be/cAb_lCCw-DE
 ## 5. Conclusiones
 
 
