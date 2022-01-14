@@ -6,7 +6,9 @@ INTEGRANTES
 3. Morales Kevin
 
 NRC: 10149
-### TEMA: Analisis de ramas, lazos y nodos. Magnetismo y Electromagnetismo 
+### TEMA:  TEOREMA DE LA MÁXIMA TRANSFERENCIA DE
+
+POTENCIA.
 ## 1. Objetivos
 ### Objetivo general
 ### Objetivos especificos
