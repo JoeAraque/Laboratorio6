@@ -96,14 +96,20 @@ Después de obtener todos los datos podemos observar el fenómeno de una transfe
 ## 5. Conclusiones
 
 * Podemos ver que la conexion de un vatimetro, es como conectar un amperimetro con un voltimetro.
+
 * La potencia maxima ocuerre cuando la resistencia interna de la fuente de carga de es igual a la resistencia ha medir.
 
+*Hay que asegurarse de tomar cálculos de una manera clara y ordenada, para así no equivocarse en el hecho de remplazar y tener como consecuencia un % de error excesivo.
 
-Hay que asegurarse de tomar cálculos de una manera clara y ordenada, para así no equivocarse en el hecho de remplazar y tener como consecuencia un % de error excesivo.
-Establecer que el teorema no solo nos muestra que hay un valor pico sino que Rl depende de la resistencia Rs.
-Se debe entender que para calcular el voltaje de una región se le conectar al circuito en forma paralela y para calcular intensidad se debe tratar al multímetro como un elemento del circuito y conectarle en serie.
-Determinamos que con el teorema se busca la potencia consumida por una resistencia en un circuito .
-Analizamos que gráficamente tendremos de cálculo de potencian un circuito equivalente de Thévenin o Norton para poder aplicar el teorema de la máxima transferencia.
+*Establecer que el teorema no solo nos muestra que hay un valor pico sino que Rl depende de la resistencia Rs.
+
+*Se debe entender que para calcular el voltaje de una región se le conectar al circuito en forma paralela y para calcular intensidad se debe tratar al multímetro como un elemento del circuito y conectarle en serie.
+
+*Determinamos que con el teorema se busca la potencia consumida por una resistencia en un circuito .
+
+*Analizamos que gráficamente tendremos de cálculo de potencian un circuito equivalente de Thévenin o Norton para poder aplicar el teorema de la máxima transferencia.
+
+
 
 
 
