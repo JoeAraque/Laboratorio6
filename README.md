@@ -56,3 +56,4 @@ NRC: 10149
 ## 4. Video 
 ## 5. Conclusiones
 ## 6. Bibliografia
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN, México, 2007 ISBN: 978-970-26-0967-4 Área: Ingeniería Formato: 21 × 27 cm Páginas: 968
