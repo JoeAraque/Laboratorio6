@@ -45,22 +45,23 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 ![4](https://user-images.githubusercontent.com/93224166/149435797-4af980f0-3b01-47d8-9af1-0b9cf7e84821.png)
 
 ### Rl=1000
-![5](https://user-images.githubusercontent.com/93224166/149435798-7ff53918-e740-40ef-9915-dbaf03496594.png)
+![5](https://user-images.githubusercontent.com/93224166/149522770-add1cf5d-50e7-4527-8a0c-d767c90f7e18.png)
 
 ### Rl=1500
-![6](https://user-images.githubusercontent.com/93224166/149435799-c70d6ffb-d105-4611-97d1-04545a074994.png)
+![6](https://user-images.githubusercontent.com/93224166/149522824-ce858746-79d5-485d-8243-faa24d2462e4.png)
 
 ### Rl=1800
-![7](https://user-images.githubusercontent.com/93224166/149435802-0c95cf93-be02-4828-ac74-7d257ff6e794.png)
+![7](https://user-images.githubusercontent.com/93224166/149522825-ca53c7ce-ac3d-4caa-bb34-fff60b9a3261.png)
 
 ### Rl=2200
-![8](https://user-images.githubusercontent.com/93224166/149435780-06813995-b030-4db5-8e9d-50cada353e95.png)
+![8](https://user-images.githubusercontent.com/93224166/149522816-44ece8f3-4316-4494-8a90-a666c699ad98.png)
 
 ### Rl=3900
-![9](https://user-images.githubusercontent.com/93224166/149435785-3e0d7507-8c7e-44ef-869f-73b4089ad281.png)
+![9](https://user-images.githubusercontent.com/93224166/149522818-9b99925c-de48-499e-a144-3fce097de755.png)
 
 ### Rl=4700
-![10](https://user-images.githubusercontent.com/93224166/149435787-ca2bbfa3-0e66-475e-a0b5-d17c094233c5.png)
+![10](https://user-images.githubusercontent.com/93224166/149522821-bb214654-0adb-416d-9f44-171d55e6764f.png)
+
 
 
 
