@@ -26,13 +26,15 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 
 ## 2. Marco teorico
 
+![map8 7](https://user-images.githubusercontent.com/93224166/149447752-007efbfd-960a-428b-8ca7-32e15bea1ab7.png)
+
 ### Diagrama del circuito
 ![Diagrama](https://user-images.githubusercontent.com/93224166/149448353-54302335-992c-4d17-bc17-afa5e326a937.png)
 
 ### Laboratorio
 
 ### Rl=220
-![1](https://user-images.githubusercontent.com/93224166/149435789-1e4e0e12-94a4-4a94-a73f-10f6b476dbd3.png)
+![1](https://user-images.githubusercontent.com/93224166/149447788-94657431-eaf5-49fe-9987-5ef1d5140c64.png)
 
 ### Rl=470
 ![2](https://user-images.githubusercontent.com/93224166/149435791-89dcf22f-9887-4877-8f06-231c28369443.png)
@@ -67,7 +69,7 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 
 |Rl(Ω)|Corriente Medida (mA)|Voltaje medido (V)| Potencia experimentalmente(W)| Potencia teorica(W)|
 |-------|----|---|---|----|
-|220|10.56|2.32|0.026|
+|220|10.56|2.32|0.024|
 |470|8.98|4.22|0.038|
 |680|8.02|5.37|0.043|
 |820|7.21|6.35|0.044|
@@ -78,7 +80,11 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 |3900|3.41|10.90|0.033|
 |4700|2.46|12.05|0.024|
 
-**QUE ES LA PREGUNTA**
+**¿Se cumple el Teorema de la Máxima Transferencia de Potencia?**
+
+**¿Cuál fue la potencia máxima en RL?**
+
+**¿Para qué valor de RL se obtiene la MTP?**
 
 ## 4. Video 
 ## 5. Conclusiones
