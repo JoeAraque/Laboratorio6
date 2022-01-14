@@ -66,6 +66,10 @@ Analizar experimentalmente el Teorema de máxima transferencia de potencia, medi
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+![LAB 6 1](https://user-images.githubusercontent.com/93951775/149522326-dddba019-a7fe-4ad8-b947-10deebf645ef.JPG)
+
+![LAB 6 2](https://user-images.githubusercontent.com/93951775/149522332-05dc2f58-9803-4fb1-86cc-56f0b14e41f0.JPG)
+
 |Rl(Ω)|Corriente Medida (mA)|Voltaje medido (V)| Potencia experimentalmente(W)| Potencia teorica(W)|
 |-------|----|---|---|----|
 |220|10.56|2.32|0.026|0.0245|
