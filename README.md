@@ -10,24 +10,30 @@ NRC: 10149
 ## 1. Objetivos
 ### Objetivo general
 
-Analizar experimentalmente el Teorema de máxima transferencia de potencia.
+* Analizar experimentalmente el Teorema de máxima transferencia de potencia, mediante la utilizacion de la boratorios virtules para una mayor comprension del tema
 
 
 ### Objetivos especificos
 
+* Construir el circuito a analizar
+* 
+* Conocer la correcta implementación de los circuitos y sus valores para no causar un error en los cálculos.
 
-Conocer la correcta implementación de los circuitos y sus valores para no causar un error en los cálculos.
-
-Establecer experimentalmente la respuesta de potencia de un circuito, cuando se somete a una carga óhmica variable.
-Determinar los factores que causan la discrepancia entre datos medidos y calculados.
+* Establecer experimentalmente la respuesta de potencia de un circuito, cuando se somete a una carga óhmica variable.
+* Determinar los factores que causan la discrepancia entre datos medidos y calculados.
+* Comparar los datos experimentales con los los calculados.
+* Sacar concluiones del tema de potencia Maxima.
 
 
 
 
 ## 2. Marco teorico
+![map8 7](https://user-images.githubusercontent.com/93224166/149447752-007efbfd-960a-428b-8ca7-32e15bea1ab7.png)
 
+
+### Laboratorio
 ### Rl=220
-![1](https://user-images.githubusercontent.com/93224166/149435789-1e4e0e12-94a4-4a94-a73f-10f6b476dbd3.png)
+![1](https://user-images.githubusercontent.com/93224166/149447788-94657431-eaf5-49fe-9987-5ef1d5140c64.png)
 
 ### Rl=470
 ![2](https://user-images.githubusercontent.com/93224166/149435791-89dcf22f-9887-4877-8f06-231c28369443.png)
@@ -62,7 +68,7 @@ Determinar los factores que causan la discrepancia entre datos medidos y calcula
 
 |Rl(Ω)|Corriente Medida (mA)|Voltaje medido (V)| Potencia experimentalmente(W)| Potencia teorica(W)|
 |-------|----|---|---|----|
-|220|10.56|2.32|0.026|
+|220|10.56|2.32|0.024|0.024
 |470|8.98|4.22|0.038|
 |680|8.02|5.37|0.043|
 |820|7.21|6.35|0.044|
