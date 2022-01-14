@@ -6,9 +6,7 @@ INTEGRANTES
 3. Morales Kevin
 
 NRC: 10149
-### TEMA:  TEOREMA DE LA MÁXIMA TRANSFERENCIA DE
-
-POTENCIA.
+### TEMA:  TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 ## 1. Objetivos
 ### Objetivo general
 ### Objetivos especificos
